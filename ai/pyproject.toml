@@ -17,5 +17,6 @@ dependencies = [
     "pydantic>=2.12.3",
     "python-dotenv>=1.2.1",
     "scikit-learn>=1.7.2",
+    "slowapi>=0.1.9",
     "uvicorn[standard]>=0.38.0",
 ]
